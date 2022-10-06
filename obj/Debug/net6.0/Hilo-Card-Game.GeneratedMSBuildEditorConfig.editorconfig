@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hilo_Card_Game
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\
-=======
-build_property.ProjectDir = C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\
->>>>>>> 9a2d534637a33ba06692ae902128dacad1e81571
+build_property.ProjectDir = c:\Users\brigh\Documents\GitHub\Hilo-Card-Game\
