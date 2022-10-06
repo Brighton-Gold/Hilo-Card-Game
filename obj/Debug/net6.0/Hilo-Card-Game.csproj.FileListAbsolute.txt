@@ -1,0 +1,5 @@
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.csproj.AssemblyReference.cache
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.AssemblyInfoInputs.cache
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.AssemblyInfo.cs
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.csproj.CoreCompileInputs.cache
