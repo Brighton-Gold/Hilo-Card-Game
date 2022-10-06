@@ -13,7 +13,7 @@ class hilo
         while (FinalPoints != 0)
         {
             int UpdatedPoints = AddOrSubtractPoints(Points);
-            int FinalPoints = KeepTheGameLooping(UpdatedPoints);
+            FinalPoints = KeepTheGameLooping(UpdatedPoints);
         }
 
     }
@@ -35,22 +35,29 @@ class hilo
         switch (UserGuess)
         {
             case "L":
-                // if (NewCard < Previous){ 
-                Points = Points + 100;
-
-                // else
-                Points = Points - 75;
+                if (NewCard < PreviousCard)
+                {
+                    Points = Points + 100;
+                }
+                else
+                {
+                    Points = Points - 75;
+                }
 
                 break;
 
 
             case "H":
 
-                // if (NewCard > Previous){ 
-                Points = Points + 100;
+                if (NewCard > Previous)
+                {
+                    Points = Points + 100;
+                }
 
-                // else
-                Points = Points - 75;
+                else
+                {
+                    Points = Points - 75;
+                }
 
                 break;
 

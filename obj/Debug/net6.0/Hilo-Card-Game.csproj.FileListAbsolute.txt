@@ -1,0 +1,15 @@
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\bin\Debug\net6.0\Hilo-Card-Game.exe
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\bin\Debug\net6.0\Hilo-Card-Game.deps.json
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\bin\Debug\net6.0\Hilo-Card-Game.runtimeconfig.json
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\bin\Debug\net6.0\Hilo-Card-Game.dll
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\bin\Debug\net6.0\Hilo-Card-Game.pdb
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.csproj.AssemblyReference.cache
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.AssemblyInfoInputs.cache
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.AssemblyInfo.cs
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.csproj.CoreCompileInputs.cache
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.dll
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\refint\Hilo-Card-Game.dll
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.pdb
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.genruntimeconfig.cache
+C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\ref\Hilo-Card-Game.dll
