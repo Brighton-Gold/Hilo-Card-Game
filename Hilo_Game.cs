@@ -26,7 +26,6 @@ class hilo
         {
             // Display Card. 
             Console.WriteLine($"{card}");
-            int 
             // Get New Card. 
 
             int PreviousCard = DisplayCard;
