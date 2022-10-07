@@ -21,3 +21,6 @@ C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.p
 C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.genruntimeconfig.cache
 C:\Users\brigh\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\ref\Hilo-Card-Game.dll
 >>>>>>> 9a2d534637a33ba06692ae902128dacad1e81571
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.dll
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\refint\Hilo-Card-Game.dll
+C:\Users\ethbo\Documents\GitHub\Hilo-Card-Game\obj\Debug\net6.0\Hilo-Card-Game.pdb

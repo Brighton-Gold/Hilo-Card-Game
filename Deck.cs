@@ -18,8 +18,8 @@ class Deck
         return deck;
 
     }
-    public Deck() 
+    public Deck()
     {
-        BuildDeck();
+        GetNewDeck();
     }
 }

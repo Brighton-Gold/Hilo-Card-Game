@@ -20,11 +20,13 @@ class hilo
 
         /// DisplayCard <- card given
         
-        deck.DrawCard();
+        int card = deck.DrawCard();
 
         while (FinalPoints != 0)
         {
             // Display Card. 
+            Console.WriteLine($"{card}");
+            int 
             // Get New Card. 
 
             int PreviousCard = DisplayCard;
