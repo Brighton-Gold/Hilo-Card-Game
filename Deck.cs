@@ -1,11 +1,12 @@
 ﻿class Deck 
 {
-    static Dictionary<int, int> GetNewDeck()
+    static Dictionary<int, int> DrawCard()
     {
         Random rnd = new Random();
-        int card = Random.Next(1, 14);
+        int card = rnd.Next(1, 14);
+        return card;
     }
-    static Dictionary<int, int> GetNewDeck()
+    static Dictionary<int, int> BuildDeck()
     {
         IDictionary<int, int> deck = new Dictionary<int, int>();
         for (int i = 0; i < 14; i++)
