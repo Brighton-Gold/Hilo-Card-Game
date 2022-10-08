@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ethbo\\.nuget\\packages\\": {}
+    "C:\\Users\\brigh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ethbo\\Documents\\GitHub\\Hilo-Card-Game\\Hilo-Card-Game.csproj",
+      "projectUniqueName": "C:\\Users\\brigh\\Documents\\GitHub\\Hilo-Card-Game\\Hilo-Card-Game.csproj",
       "projectName": "Hilo-Card-Game",
-      "projectPath": "C:\\Users\\ethbo\\Documents\\GitHub\\Hilo-Card-Game\\Hilo-Card-Game.csproj",
-      "packagesPath": "C:\\Users\\ethbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ethbo\\Documents\\GitHub\\Hilo-Card-Game\\obj\\",
+      "projectPath": "C:\\Users\\brigh\\Documents\\GitHub\\Hilo-Card-Game\\Hilo-Card-Game.csproj",
+      "packagesPath": "C:\\Users\\brigh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brigh\\Documents\\GitHub\\Hilo-Card-Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ethbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\brigh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

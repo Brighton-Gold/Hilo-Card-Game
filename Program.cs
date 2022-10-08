@@ -1,6 +1,7 @@
-class hilo
+class Program
 {
-    void Main(string[] arg)
+
+    static void main()
     {
         int Points = 300;
         int FinalPoints = 300;
@@ -8,6 +9,7 @@ class hilo
         AddOrSubbtractPoints AddOrSub = new AddOrSubbtractPoints();
         
         Deck deck = new Deck();
+        CheckPoints PointsCheck = new CheckPoints();
 
 
         Console.WriteLine("Hello welcome to Hilo! The game is simple, you start with 300 points ",
@@ -32,49 +34,10 @@ class hilo
 
 
             int UpdatedPoints = AddOrSub.ScoreCard(Points, NewCard, PreviousCard);
-            FinalPoints = KeepTheGameLooping(UpdatedPoints);
+            FinalPoints = PointsCheck.KeepTheGameLooping(UpdatedPoints);
 
             DisplayCard = NewCard;
         }
 
     }
-
-
-
-    public int KeepTheGameLooping(int Points)
-    {
-        Console.WriteLine($"Currently you have {Points} points.");
-        Console.WriteLine("Keep playing? Y/N");
-
-        string ContinueGame = Console.ReadLine();
-        ContinueGame = ContinueGame.ToUpper();
-
-        // If player does not wish to continue the points will equal zero, thus ending the while loop. 
-        // If none of the requirements are met, points should be returned as normal. 
-
-        if (ContinueGame == "N")
-        {
-            Points = 0;
-        }
-
-        else if (ContinueGame == "Y" && Points == 0)
-        {
-            Console.WriteLine("Since you have 0 points left, they have been reset to 300");
-            Points = 300;
-        }
-
-        return Points;
-
-    }
-
 }
-
-
-
-
-
-
-
-
-
-
