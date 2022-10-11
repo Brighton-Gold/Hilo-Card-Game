@@ -1,7 +1,7 @@
 class Program
 {
 
-    static void main()
+    static void Main(string[] args)
     {
         int Points = 300;
         int FinalPoints = 300;
