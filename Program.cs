@@ -12,9 +12,9 @@ class Program
         CheckPoints PointsCheck = new CheckPoints();
 
 
-        Console.WriteLine("Hello welcome to Hilo! The game is simple, you start with 300 points ",
-        "the system will show you card and you have to guess if the next card is higher or lower.",
-        "If you are correct, you win points! Enter H if you think it's higher or L if lower. Get ready to play! ");
+        Console.WriteLine("Hello welcome to Hilo! The game is simple, you start with 300 points ");
+        Console.WriteLine("the system will show you card and you have to guess if the next card is higher or lower.");
+        Console.WriteLine("If you are correct, you win points! Enter H if you think it's higher or L if lower. Get ready to play! ");
 
         /// filler until we make call class for card. After info has passed to here, display card. 
         /// Call card deck. Card deck will give a card and value will be added to show it has been drawn.
@@ -37,6 +37,7 @@ class Program
             FinalPoints = PointsCheck.KeepTheGameLooping(UpdatedPoints);
 
             DisplayCard = NewCard;
+            Points = FinalPoints;
         }
 
     }
